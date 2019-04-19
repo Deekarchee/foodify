@@ -1,2 +1,2 @@
-# foodify
-my recreation of forkify.
+# Foodify
+My recreation of Udemy's forkify.
